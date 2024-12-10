@@ -1,5 +1,3 @@
-# Robust-Sensor-Fusion-Using-Unscented-Kalman-Filter
-
 # **Robust Sensor Fusion Using Unscented Kalman Filter (UKF)**
 
 This repository implements a **Robust Unscented Kalman Filter (UKF)** to achieve precise sensor fusion for state estimation. By integrating noisy and asynchronous sensor data, such as orientation, pose, and velocity measurements, this project provides a robust framework for state estimation in dynamic environments. The repository includes MATLAB code, datasets, and visualization tools to evaluate the algorithm's performance.
