@@ -110,7 +110,7 @@ root/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Robust-Sensor-Fusion-Using-UKF.git
+git clone https://github.com/dineshsairallapalli/Robust-Sensor-Fusion-Using-UKF.git
 cd Robust-Sensor-Fusion-Using-UKF
 ```
 
